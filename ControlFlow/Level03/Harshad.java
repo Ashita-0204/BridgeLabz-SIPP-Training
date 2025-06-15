@@ -5,7 +5,7 @@ public class Harshad{
 	//Input
         Scanner sc = new Scanner(System.in);
 		int number = sc.nextInt();
-
+ 
         int sum = 0;
         int temp = number;
 	//Conditions
