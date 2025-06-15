@@ -7,7 +7,7 @@ public class Grades{
        int p = sc.nextInt();
 	   int c = sc.nextInt();
 	   int m = sc.nextInt();
-        double avg = (p + c + m) / 3.0;
+         double avg = (p + c + m) / 3.0;
         String grade, remark;
     //Conditions
         if (avg >= 80) { grade = "A"; remark = "Level 4, above agency-normalized standards"; }
