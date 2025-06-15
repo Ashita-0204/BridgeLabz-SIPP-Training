@@ -4,9 +4,8 @@ public class Prime{
     public static void main(String[] args) {
 	//Input
         Scanner sc = new Scanner(System.in);
-               int num = sc.nextInt();
-
-        boolean isPrime = true;
+            int num = sc.nextInt();
+	    boolean isPrime = true;
 // 	Conditions
         if (num <= 1) {
             isPrime = false;
