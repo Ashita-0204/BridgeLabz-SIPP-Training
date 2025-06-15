@@ -6,7 +6,7 @@ public class Multiplication{
        //Input
         int num = sc.nextInt();
     //Loops
-        for (int i = 6; i <= 9; i++) {
+        for (int i = 1; i <= 9; i++) {
             System.out.println(num + " * " + i + " = " + (num * i));
         }
     }
