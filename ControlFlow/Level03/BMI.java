@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class BMI{
     public static void main(String[] args) {
-	//Input
+	//Input 
         Scanner sc = new Scanner(System.in);
 		double weight = sc.nextDouble();
 		double heightCm = sc.nextDouble();
