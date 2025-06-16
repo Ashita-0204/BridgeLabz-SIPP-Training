@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class FactorialFor {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
        //Input
         int n = sc.nextInt();
 //Loop
