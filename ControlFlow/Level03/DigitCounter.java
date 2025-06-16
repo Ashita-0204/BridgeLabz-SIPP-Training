@@ -9,7 +9,7 @@ public class DigitCounter {
         int count = 0;
         int original = Math.abs(number); 
 	//Conditions
-        if (original == 0) {
+        if (original == 0) { 
             count = 1; 
         } else {
             while (original != 0) {
