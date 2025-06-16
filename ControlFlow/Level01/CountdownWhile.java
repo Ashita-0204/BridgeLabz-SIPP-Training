@@ -9,7 +9,7 @@ public class CountdownWhile {
 //     Condition
         while (counter >= 1) {
             System.out.println(counter);
-            counter--;
+            counter--; 
         }
         System.out.println("Lift Off!");
     }
