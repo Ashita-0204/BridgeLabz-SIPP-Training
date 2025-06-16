@@ -3,7 +3,7 @@ public class Integer{
 	public static void main (String [] args){
 // Input
 	Scanner input= new Scanner(System.in);
-	int number=input.nextInt();
+	int number=input.nextInt(); 
 
 //	If the number is positive
 	if(number>0){
