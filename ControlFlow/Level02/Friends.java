@@ -7,7 +7,7 @@ public class Friends {
         int age1 = sc.nextInt();
         int height1 = sc.nextInt();
 
-       //Akbar Input
+       //Akbar Input 
         int age2 = sc.nextInt();
        int height2 = sc.nextInt();
 
