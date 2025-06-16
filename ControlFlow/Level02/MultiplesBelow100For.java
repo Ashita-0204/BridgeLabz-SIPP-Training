@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class MultiplesBelow100For {
     public static void main(String[] args) {
            //Input
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
         int number = sc.nextInt();
 // Condition
         System.out.println("Multiples of " + number + " below 100:");
