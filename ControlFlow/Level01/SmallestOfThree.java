@@ -11,4 +11,4 @@ public class SmallestOfThree {
         System.out.println("Is the first number the smallest? " + (a < b && a < c));
     }
 }
-
+ 
