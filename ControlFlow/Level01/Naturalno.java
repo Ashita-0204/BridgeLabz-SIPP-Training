@@ -1,7 +1,7 @@
 import java.util.*;
 public class Naturalno{
 	public static void main (String [] args){
-// Input
+// Input 
 	Scanner input= new Scanner(System.in);
 	int number=input.nextInt();
 
