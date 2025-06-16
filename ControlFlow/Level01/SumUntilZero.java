@@ -11,7 +11,7 @@ public class SumUntilZero {
         while ((value = num ) != 0) {
             total += value;
         }
-	//Output Statement
+	//Output Statement 
         System.out.println("Total sum: " + total);
     }
 }
