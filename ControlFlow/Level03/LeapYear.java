@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class LeapYear { 
     public static void main(String[] args) {
 	//Input
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
        int year = sc.nextInt();
 // Conditions
         if (year < 1582) {
