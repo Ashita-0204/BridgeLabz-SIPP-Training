@@ -4,7 +4,7 @@ public class Abundant{
     public static void main(String[] args) {
 	//Input
         Scanner sc = new Scanner(System.in);
-		int number = sc.nextInt();
+		int number = sc.nextInt(); 
  int sum = 0;
 	//Conditions
         for (int i = 1; i < number; i++) {
