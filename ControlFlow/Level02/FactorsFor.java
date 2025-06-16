@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ 
 public class FactorsFor {
     public static void main(String[] args) {
      //Input
