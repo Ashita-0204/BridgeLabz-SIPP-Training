@@ -13,4 +13,4 @@ public class Divfive{
 	System.out.println(" Not divisible by 5 ");
 	}
 }
-}
+} 
