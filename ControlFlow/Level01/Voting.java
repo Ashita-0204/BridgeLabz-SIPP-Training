@@ -1,7 +1,7 @@
 import java.util.*;
 public class Voting{
 	public static void main (String [] args){
-// Input
+// Input 
 	Scanner input= new Scanner(System.in);
 	int age=input.nextInt();
 
