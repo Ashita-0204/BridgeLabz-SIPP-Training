@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class Grades{
-    public static void main(String[] args) {
+    
+	public static void main(String[] args) {
 	//Input
         Scanner sc = new Scanner(System.in);
        int p = sc.nextInt();
