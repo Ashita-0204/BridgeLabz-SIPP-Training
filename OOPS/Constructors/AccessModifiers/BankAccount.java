@@ -1,5 +1,5 @@
 package AccessModifiers;
-
+ 
 class BankAccount {
     public int accountNumber;
     protected String accountHolder;
