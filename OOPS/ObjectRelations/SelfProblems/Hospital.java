@@ -1,4 +1,4 @@
-npackage com.bridgelaz;
+package com.bridgelaz;
 
 import java.util.*;
 
