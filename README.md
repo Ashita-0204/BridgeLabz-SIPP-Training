@@ -193,7 +193,7 @@ _Topics_:Bubble Sort,Insertion Sort,Merge Sort,Quick Sort,Selection Sort,Heap So
 
 ### 📅 10/07/25 (Thurs) – Day 4 – Searching Algorithms
 
-_Topics_:StringBuilder,StringBuffer,FileReader,InputStreamReader,Linear Search,Binary Search,
+_Topics_:StringBuilder,StringBuffer,FileReader,InputStreamReader,Linear Search,Binary Search
 🔗 [Code](https://github.com/Ashita-0204/BridgeLabz-SIPP-Training/tree/DSA/DSA/SearchingAlgos)
 
 ---
